@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/kafei/Desktop/test2/build",
+  "command": "D:\\Software\\VScode\\MinGW\\bin\\gcc.exe   -g -std=gnu11 -o CMakeFiles\\test.dir\\src\\main.c.obj -c C:\\Users\\kafei\\Desktop\\test2\\src\\main.c",
+  "file": "C:/Users/kafei/Desktop/test2/src/main.c",
+  "output": "CMakeFiles/test.dir/src/main.c.obj"
+}
+]

@@ -1,0 +1,3 @@
+C:/Users/kafei/Desktop/test2/build/CMakeFiles/test.dir
+C:/Users/kafei/Desktop/test2/build/CMakeFiles/edit_cache.dir
+C:/Users/kafei/Desktop/test2/build/CMakeFiles/rebuild_cache.dir
